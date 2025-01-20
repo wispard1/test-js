@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "main": "index.js",
+  "type": "module"
+}
